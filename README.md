@@ -1,2 +1,2 @@
-# ResponsivePortfolio
-HW2 P2
+# basicportfolio
+HW portfolio project
